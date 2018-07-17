@@ -1,6 +1,5 @@
-# HS-Calculus-1_Funciton-Analysis (2015)
+# Calculus 1 Project - Polynomial Analyzer  (2015)
 
-Calculus 1 Project - Function Analyzer 
 
   Equation.Java analyzes polynomial functions of any degree, with a given domain, and computes the first and second deriviate of the polynomial
 as well as its critical values, inflection points, concavity, extrema and domain. 
